@@ -29,11 +29,19 @@ https://cloud.google.com/sdk/install
 
 ![paste](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/4_paste.png)
 
-4. change permission to shell scripts.
+4. publish the apps script.
+
+![publish](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/5_publish.png)
+
+![permission](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/6_permission.png)
+
+![getlink](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/getlink.png)
+
+5. change permission to shell scripts.
 
 ```sudo chmod +x gcloud-ip-list.sh```
 
-5. run the script.  
+6. run the script.  
 
 ```bash gclod-ip-list.sh```
 
