@@ -35,7 +35,7 @@ https://cloud.google.com/sdk/install
 
 ![permission](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/6_permission.png)
 
-![getlink](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/getlink.png)
+![getlink](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/7_getlink.png)
 
 5. change permission to shell scripts.
 
