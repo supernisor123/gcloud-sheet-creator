@@ -12,6 +12,8 @@ https://cloud.google.com/sdk/install
 
 3.Creating an googlesheet
 
+![create](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/1_create.png)
+
 ### HOW TO USE
 1. clone this project.
 
@@ -19,9 +21,13 @@ https://cloud.google.com/sdk/install
 
 2. go to googleSheet and open Tools > Script editor. 
 
+![open](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/2_open.png)
 
 3. paste the gs code to Script editor.
 
+![paste](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/3_paste.png)
+
+![paste](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/4_paste.png)
 
 4. change permission to shell scripts.
 
