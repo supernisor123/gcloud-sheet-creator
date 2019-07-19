@@ -3,6 +3,7 @@ An useful script that reduce the google cloud platform informations
 
 
 Requirments:
+
 1.Linux based OS(with shell script)
 
 2.gcloud command sdk:
