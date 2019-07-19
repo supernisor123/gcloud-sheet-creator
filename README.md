@@ -5,7 +5,7 @@ An useful script that reduce the google cloud platform informations
 Requirments:
 1.Linux based OS(with shell script)
 2.gcloud command sdk:
-[link]https://cloud.google.com/sdk/install
+https://cloud.google.com/sdk/install
 3.Creating an googlesheet
 ### HOW TO USE
 1. clone this project.
