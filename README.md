@@ -39,4 +39,4 @@ https://cloud.google.com/sdk/install
 
 This script will present google cloud platform instance data like this:
 
-
+![example](https://github.com/supernisor123/gcloud-sheet-creator/blob/master/png/example.png)
