@@ -1,4 +1,4 @@
-# gcloud-sheet-creator
+# gcp-instance-sheet
 An useful script that reduce the google cloud platform informations 
 
 
